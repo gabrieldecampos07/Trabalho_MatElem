@@ -48,6 +48,7 @@ Mostra o **ângulo reduzido** e o **quadrante** correspondente no círculo trigo
 - **CSS3**  
 - **JavaScript (ES6)**  
 - **GitHub Pages** (para hospedagem gratuita)
+- **Python**
 
 ---
 
