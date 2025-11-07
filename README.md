@@ -7,8 +7,7 @@ Este site foi criado para auxiliar estudantes no aprendizado da **Trigonometria*
 
 ## 🌐 Demonstração
 Acesse o site diretamente no GitHub Pages:  
-👉 [https://seuusuario.github.io/pytrigonometria/](https://seuusuario.github.io/pytrigonometria/)  
-*(substitua `seuusuario` pelo seu nome de usuário do GitHub)*
+👉 https://gabrieldecampos07.github.io/Trabalho_MatElem/ 
 
 ---
 
