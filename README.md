@@ -6,7 +6,7 @@ Este site foi criado para auxiliar estudantes no aprendizado da **Trigonometria*
 ---
 
 ## 🌐 Demonstração
-Acesse o site diretamente no GitHub Pages:  
+Acesse o site diretamente pelo link:  
 👉 https://gabrieldecampos07.github.io/Trabalho_MatElem/ 
 
 ---
@@ -44,24 +44,8 @@ Mostra o **ângulo reduzido** e o **quadrante** correspondente no círculo trigo
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6)**  
+- **HTML**  
 - **GitHub Pages** (para hospedagem gratuita)
 - **Python**
 
 ---
-
-## 🚀 Como Executar Localmente
-Caso queira testar no seu computador:
-
-```bash
-# Clone o repositório
-git clone https://github.com/seuusuario/pytrigonometria.git
-
-# Entre na pasta
-cd pytrigonometria
-
-# Abra o arquivo no navegador
-start index.html   # (Windows)
-open index.html    # (Mac)
